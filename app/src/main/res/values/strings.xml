@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">zurajabauri</string>
+    <string name="todo">TODO</string>
+    <string name="increase">Increase</string>
+    <string name="_0">0</string>
+    <string name="click_button_to_increase_number">click button to increase number</string>
+</resources>
